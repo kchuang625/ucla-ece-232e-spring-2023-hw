@@ -1,1 +1,8 @@
-# ucla-ece-232e-spring-2023-hw
+# UCLA ECE 232E Projects (Spring 2023)
+
+### Scores
+***
++ Project 1:
++ Project 2:
++ Project 3:
++ Project 4: 
